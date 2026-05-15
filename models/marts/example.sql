@@ -1,0 +1,1 @@
+Select * from {{ref("water_alerts")}}
